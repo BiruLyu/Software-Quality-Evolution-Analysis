@@ -5,6 +5,7 @@
 ## Spring framework
 
 * [Spring Framework](DirectedRearch/spring-framework/README.md)
+  * [JDBCTemplate](DirectedRearch/spring-framework/jdbctemplate.md)
 
 ## JIRA
 
@@ -26,4 +27,5 @@
 ## Tensor Flow
 
 * [Tensor Flow](DirectedRearch/tensor-flow.md)
+* [Scikit-Learn](DirectedRearch/scikit-learn.md)
 
