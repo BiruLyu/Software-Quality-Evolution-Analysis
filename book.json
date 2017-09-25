@@ -1,0 +1,13 @@
+{
+    "plugins": [ "anchors", "anchor-navigation-ex","anchor-navigation"],
+    "pluginsConfig": {
+        "anchor-navigation-ex": {
+           "showLevel": true,
+           "associatedWithSummary":true,
+           "multipleH1": false
+        },
+        "theme-default": {
+            "showLevel": true
+        }
+     }
+}
