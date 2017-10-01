@@ -6,6 +6,7 @@ This is a repository for recording the problems encountered and the solutions us
 
 **GitHub** : [https://github.com/BiruLyu/Software-Quality-Evolution-Analysis](https://github.com/BiruLyu/Software-Quality-Evolution-Analysis)
 
+**GitBook** : [https://www.gitbook.com/book/birulyu/directed-research/details](https://www.gitbook.com/book/birulyu/directed-research/details)
 
 
 
