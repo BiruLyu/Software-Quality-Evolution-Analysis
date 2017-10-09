@@ -19,10 +19,11 @@
 
 * [JUnit Learning](DirectedRearch/junit-learning.md)
 
-## Hibernate framework
+## Database Part
 
 * [Hibernate Framework](DirectedRearch/hibernate-framework.md)
   * [Showing the Evolution of JIRA Issues](DirectedRearch/hibernate-framework/showing-the-evolution-of-jira-issues.md)
+* [Remote Databases](DirectedRearch/remote-databases.md)
 
 ## Tensor Flow
 
